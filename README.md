@@ -1,5 +1,6 @@
 # Student-Management-System
-A Python GUI based application with Oracle database for managing students at an institution. It will help the staff with handling the student details
+
+An application using Python Tkinter library for overseeing students at an institution will help the staff with taking care of the student details and effectively managing them.
 
 Requirements:
 Python 3
